@@ -6,21 +6,18 @@ The analysis is built using Power BI, leveraging interactive filters for month, 
 
 ![Mobile Sales Dashboard](Mobile%20Sales%20DashBoard.jpg)
 
-🎯 Key Metrics Highlighted
-Total Sales: 769M
-Total Quantity Sold: 19K units
-Total Transactions: 4K
-Average Price: 40K
-Unique Customers: 988
-📊 Key Insights
-City-wise Sales: Major contributions from metro cities such as Mumbai, Delhi, Bangalore, and Chennai.
-Monthly Trend: Sales quantity shows noticeable fluctuations, with peak performance during select months.
-Day-wise Sales: Highest sales recorded on weekends, especially Saturdays.
-Top Mobile Models:
-iPhone SE
-OnePlus Nord
-Galaxy Note 20
-Vivo Y51
-Brand Performance: Apple and Samsung lead in total sales and transactions.
-Payment Methods: Balanced usage across UPI, Credit Card, Debit Card, and Cash.
-Customer Ratings: Majority of customers provided ratings between 4 and 5, indicating strong satisfaction.
+🎯 **Key Metrics Highlighted**
+- Total Sales: **769M**
+- Total Quantity Sold: **19K units**
+- Total Transactions: **4K**
+- Average Price: **40K**
+- Unique Customers: **988**
+
+📊 **Key Insights**
+- **City-wise Sales:** Major contributions from Mumbai, Delhi, Bangalore, and Chennai
+- **Monthly Trend:** Sales quantity fluctuates with peak performance in select months
+- **Day-wise Sales:** Highest sales on weekends, especially Saturdays
+- **Top Mobile Models:** iPhone SE, OnePlus Nord, Galaxy Note 20, Vivo Y51
+- **Brand Performance:** Apple and Samsung lead in sales and transactions
+- **Payment Methods:** Balanced usage across UPI, Credit Card, Debit Card, and Cash
+- **Customer Ratings:** Majority ratings between 4 and 5, showing high satisfaction
