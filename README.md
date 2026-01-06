@@ -5,6 +5,7 @@ This dashboard helps stakeholders understand sales trends, customer behavior, an
 The analysis is built using Power BI, leveraging interactive filters for month, brand, payment method, and mobile model.
 
 ![Mobile Sales Dashboard](Mobile%20Sales%20DashBoard.jpg)
+
 🎯 Key Metrics Highlighted
 Total Sales: 769M
 Total Quantity Sold: 19K units
